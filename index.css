@@ -1,0 +1,154 @@
+
+  .lead {
+    
+    text-shadow: black 1px 4px 4px;
+}
+
+.display-4 {
+    
+    text-shadow: black 1px 5px 6px;
+    padding-left: 2rem;
+}
+.col-md-5{
+  background-image: url(bg.jpg) img-fluid ;
+  color: whitesmoke;
+  
+}
+
+.my-5 {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
+.w-100 {
+    width: 100% !important;
+    height: 11%;
+}
+
+
+.img-fluid-Bikes{
+    max-width: 75%;
+    height: auto;
+    max-block-size: unset;
+}
+/* img, svg {
+
+    height: 18rem;
+    width: 30rem;
+} */
+  .p-md-5 {
+    padding: 0rem !important;
+}
+  .ps-md-3 {
+    padding-left: 0rem !important;
+    
+}
+.m-md-3 {
+    margin-top: 1rem !important;
+    background-color: darkcyan;
+}
+.me-md-3 {
+    margin-right: 10rem !important;
+}
+.me-md-3 {
+    margin-right: 0rem !important;
+}
+.col-md-5 {
+    
+    width: 63%;
+   
+}
+.p-lg-5 {
+    padding: 1rem !important;
+}
+
+.w-100 {
+    
+    margin-bottom: 10px;
+}
+.px-2{
+  color: white;
+}
+
+.pb-3 {
+    padding-bottom: 0rem !important;
+}
+.text-muted {
+    --bs-text-opacity: 1;
+    color: #fdfeff !important;
+}
+
+.about{
+    padding: 6rem !important;
+    margin-top: 1rem;
+    background: no-repeat right;
+    background-image: url(/about-2.jpg);
+    
+    height: 32rem;
+}
+.about-2{
+    padding: 3rem !important;
+    margin-top: 1rem;
+    background-image: url(/aboutbg.jpg);
+    height: 32rem;
+}
+
+.journey{
+    background-color: darkcyan;
+    padding: 4rem;
+}
+.my-3 {
+    margin: 2rem;
+}
+
+
+element {
+
+}
+.about {
+
+    padding: 6rem !important;
+    margin-top: 3rem;
+    background: no-repeat right;
+        background-image: none;
+    background-image: url(/about-2.jpg);
+    height: 32rem;
+    margin-bottom: 1rem;
+
+}
+.p-md-5 {
+
+    padding: 0rem !important;
+
+}
+.p-md-5 {
+
+    padding: 3rem !important;
+
+}
+.rounded {
+
+    border-radius: .25rem !important;
+
+}
+.text-white {
+
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-white-rgb),var(--bs-text-opacity)) !important;
+
+}
+.p-4 {
+    padding: 2.5rem !important;
+}
+.mb-4 {
+
+    margin-bottom: 3.5rem !important;
+
+}
+
+.rounded {
+    border-radius: 9.25rem !important;
+}
+
+.text-white {
+    padding-left: 2rem;
+}
