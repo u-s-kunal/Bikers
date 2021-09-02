@@ -90,6 +90,9 @@ padding-top: 0rem !important;
 padding-bottom: 0rem !important;
 }
 
+.pb-3 {
+    padding-bottom: 0rem !important;
+}
 @media only screen and (max-width:946px){
 
     .form-contact {
