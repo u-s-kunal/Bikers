@@ -81,14 +81,14 @@
     padding: 6rem !important;
     margin-top: 1rem;
     background: no-repeat right;
-    background-image: url(/about-2.jpg);
+    background-image: url(/Bikers/about-2.jpg);
     
     height: 32rem;
 }
 .about-2{
     padding: 3rem !important;
     margin-top: 1rem;
-    background-image: url(/aboutbg.jpg);
+    background-image: url(/Bikers/aboutbg.jpg);
     height: 32rem;
 }
 
@@ -110,7 +110,7 @@ element {
     margin-top: 3rem;
     background: no-repeat right;
         background-image: none;
-    background-image: url(/about-2.jpg);
+    background-image: url(/Bikers/about-2.jpg);
     height: 32rem;
     margin-bottom: 1rem;
 
