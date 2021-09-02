@@ -1,0 +1,103 @@
+.form-control {
+    border: 2px solid #0c0d0d;
+}
+
+.form-label {
+
+    text-shadow: 2px 3px 5px black;
+}
+
+body {
+    background-image: url(/bgcontact.png);
+    background-size: cover;
+    color: white;
+
+
+}
+
+background-image {
+    opacity: 70%;
+}
+
+.animation {
+    width: 200px;
+    height: 110px;
+    /* background-color: rgb(8, 0, 0); */
+    background-image: url(/anime.png);
+    background-repeat: no-repeat;
+    position: relative;
+    animation-name: example;
+    animation-duration: 5s;
+    margin: 10px;
+}
+
+@keyframes example {
+    0% {
+        left: 0px;
+        top: 0px;
+    }
+
+    25% {
+        left: 1220px;
+        top: 0px;
+    }
+
+    50% {
+        left: 1220px;
+        top: 550px;
+    }
+
+    75% {
+        left: 0px;
+        top: 550px;
+        transform: scaleX(-1);
+    }
+
+    100% {
+        left: -1220px;
+        top: 550px;
+        transform: scaleX(-1);
+    }
+
+}
+
+.form-contact {
+    margin: -3.5rem 21rem;
+    margin-bottom: 2rem;
+}
+
+.btn {
+    padding: 10px 50px;
+    border: 2px solid black;
+}
+
+.lastname {
+    width: 102%;
+}
+
+.row>* {
+    flex-shrink: 0;
+    width: none%;
+    max-width: 111%;
+}
+.my-4 {
+margin-top: 0.5rem !important;
+margin-bottom: -2.5rem !important;
+}
+
+.py-3 {
+padding-top: 0rem !important;
+padding-bottom: 0rem !important;
+}
+
+@media only screen and (max-width:946px){
+
+    .form-contact {
+        margin: 50px;
+
+    }
+    
+    .animation{
+        display: none;
+    }
+}
